@@ -6,7 +6,6 @@ From basic to advanced: test how well you know JavaScript, refresh your knowledg
 
 The answers are in the collapsed sections below the questions, simply click on them to expand it. Good luck :heart:
 
-[中文版本](./README-zh_CN.md)
 
 ---
 
@@ -186,7 +185,6 @@ console.log(d.greeting);
 - B: `Hey`
 - C: `undefined`
 - D: `ReferenceError`
-- E: `TypeError`
 
 <details><summary><b>Answer</b></summary>
 <p>
